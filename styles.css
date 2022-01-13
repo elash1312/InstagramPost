@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+.container {
+background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 650px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: large;
+}
+.header {
+   display: flex;
+   flex-direction: row;
+   margin-left: auto;
+   margin-right: auto;
+   font-weight: bolder;
+   justify-content: space-between;
+}
+.image {
+    display: flex;
+    align-content: left;
+    width: 200px;
+}
+.icons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+}
+.likes {
+    display: block;
+    font-size: small;
+}
+.description {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: small;
+}
+.username {
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.postName {
+    font-weight: bolder;
+}
