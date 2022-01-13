@@ -21,8 +21,8 @@ background-color: white;
 }
 .image {
     display: flex;
-    align-content: left;
-    width: 200px;
+    height: 330px;
+    width: 350px;
 }
 .icons {
     display: block;
