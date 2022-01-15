@@ -17,8 +17,17 @@ background-color: white;
    flex-direction: row;
    margin-left: auto;
    margin-right: auto;
-   margin-top: 10px;
+   margin-top: 13px;
    font-weight: bolder;
+}
+h4 {
+   margin-top: 18px;
+   margin-bottom: 0px;
+   font-weight: 1000;
+   font-size: 20px;
+}
+.myName {
+   margin-bottom: 19px;
 }
 .image img {
     height: auto;
@@ -28,18 +37,30 @@ background-color: white;
     margin-left: auto;
     margin-right: auto;
     margin-top: 8px;
-    font-size: 2em;
+    margin-bottom: 18px;
+    font-size: 1.9em;
     display: flex;
    flex-direction: row;
+}
+.heart {
+    margin-left: 10px;
+}
+.comment {
+    margin-left: 12px;
+}
+.plane {
+    margin-left: 11px;
 }
 .likes {
     display: block;
     font-size: small;
+    margin-top: 5px;
 }
 .description {
     display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 8px;
   font-size: small;
 }
 .username {
@@ -54,22 +75,30 @@ background-color: white;
 }
 .menuIcon {
     margin-left: auto;
-    margin-top: 10px;
-    font-size: 1.5em;
+    margin-right: 15px;
+    margin-top: 25px;
+    font-size: 1.8em;
 }
 .htmlIcon {
-    margin-top: 10px;
+    margin-top: 23px;
     font-size: 2em;
+    margin-left: 18px;
 }
 .postName h4 {
+    margin-top: 15px;
     margin-bottom: 0px;
+    font-weight: 1000;
 }
 .p {
 
 }
 .bookMark {
     margin-left: auto;
+    margin-right: 18px;
 }
 .words {
     padding: 10px;
+}
+.username {
+    font-weight: bolder;
 }
